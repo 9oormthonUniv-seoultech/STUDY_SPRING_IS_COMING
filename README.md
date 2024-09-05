@@ -5,8 +5,8 @@
 |  ![](https://github.com/Hawardshin.png?size=100)  |   ![](https://github.com/JiinHong.png?size=100)    |  ![](https://github.com/sunyou10.png?size=100)  |
 | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
 |      [신중은](https://github.com/Hawardshin)      |       [박진홍](https://github.com/JiinHong)        |      [차서윤](https://github.com/sunyou10)      |
-| ![](https://github.com/chaeyoungeee.png?size=100) | ![](https://github.com/Jeongh00.png?size=100) | ![](https://github.com/orieasy1.png?size=100) |
-|     [임채영](https://github.com/chaeyoungeee)     |     [안정후](https://github.com/Jeongh00)     |     [이지원](https://github.com/orieasy1)     |
+| ![](https://github.com/chaeyoungeee.png?size=100) | ![](https://github.com/orieasy1.png?size=100) |
+|     [임채영](https://github.com/chaeyoungeee)     |  [이지원](https://github.com/orieasy1)     |
 
 ## ⏰ 스터디 시간
 
