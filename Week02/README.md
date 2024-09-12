@@ -10,7 +10,7 @@
 | 신중은    | [게시물 제목](URL) |
 | 박진홍    | [게시물 제목](URL) |
 | 차서윤    | [스프링 로그 분석하기](https://velog.io/@sunyou10/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0) |
-| 임채영    | [게시물 제목](URL) |
+| 임채영    | [Column의 기본값을 설정하는 방법들](https://velog.io/@chaeyounge/Column%EC%9D%98-%EA%B8%B0%EB%B3%B8%EA%B0%92%EC%9D%84-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4) |
 | 안정후    | [게시물 제목](URL) |
 | 이지원    | [게시물 제목](URL) |
 
