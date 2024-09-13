@@ -7,11 +7,10 @@
 
 | 팀원 이름 | 게시물 링크 |
 |-----------|-------------|
-| 신중은    | [게시물 제목](URL) |
+| 신중은    | [스프링에서 swagger 세팅하기 1편](https://haward.tistory.com/248) |
 | 박진홍    | [스프링 부트에서 테스트 코드 작성](https://jiinhong.github.io/posts/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1/) |
 | 차서윤    | [스프링 로그 분석하기](https://velog.io/@sunyou10/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0) |
 | 임채영    | [게시물 제목](URL) |
-| 안정후    | [게시물 제목](URL) |
 | 이지원    | [게시물 제목](URL) |
 
 ## 스터디 기록
