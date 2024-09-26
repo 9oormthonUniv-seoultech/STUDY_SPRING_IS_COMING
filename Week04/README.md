@@ -12,6 +12,6 @@
 | 차서윤    | [DAO, DTO, BO, VO 개념 정리](https://velog.io/@sunyou10/DAO-DTO-BO-VO-개념-정리) |
 | 임채영    | [Mustache + Spring boot 게시판 CRUD 구현하기](https://velog.io/@chaeyounge/Mustache-Spring-boot-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
 | 안정후    | [게시물 제목](URL) |
-| 이지원    | [Web Service의 인증과 Spring Security]([URL](https://easy1nhard2.tistory.com/23)) |
+| 이지원    | [Web Service의 인증과 Spring Security](https://easy1nhard2.tistory.com/23) |
 
 ## 스터디 기록
